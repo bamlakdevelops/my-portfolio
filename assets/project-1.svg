@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#1f2233"/>
+  <rect x="70" y="65" width="1060" height="620" rx="35" fill="#d6d2dc"/>
+  <rect x="120" y="120" width="960" height="60" rx="20" fill="#efede8"/>
+  <circle cx="160" cy="150" r="14" fill="#1f2233"/>
+  <rect x="230" y="138" width="200" height="24" rx="12" fill="#1f2233"/>
+  <rect x="120" y="225" width="430" height="330" rx="26" fill="#efb2ad"/>
+  <rect x="600" y="225" width="430" height="42" rx="12" fill="#1f2233"/>
+  <rect x="600" y="295" width="350" height="22" rx="11" fill="#1f2233" opacity=".75"/>
+  <rect x="600" y="335" width="300" height="22" rx="11" fill="#1f2233" opacity=".55"/>
+  <rect x="600" y="420" width="170" height="52" rx="26" fill="#1f2233"/>
+  <text x="685" y="454" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#fff">PROJECT 01</text>
+</svg>
